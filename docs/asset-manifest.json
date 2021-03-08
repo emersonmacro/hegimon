@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea2e4214.chunk.css",
-    "main.js": "/static/js/main.6e334732.chunk.js",
-    "main.js.map": "/static/js/main.6e334732.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.651146fc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.651146fc.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.f20f1395.chunk.js": "/static/js/2.f20f1395.chunk.js",
-    "static/js/2.f20f1395.chunk.js.map": "/static/js/2.f20f1395.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.ea2e4214.chunk.css.map": "/static/css/main.ea2e4214.chunk.css.map",
-    "static/js/2.f20f1395.chunk.js.LICENSE.txt": "/static/js/2.f20f1395.chunk.js.LICENSE.txt"
+    "main.css": "/hegimon/static/css/main.ea2e4214.chunk.css",
+    "main.js": "/hegimon/static/js/main.6e334732.chunk.js",
+    "main.js.map": "/hegimon/static/js/main.6e334732.chunk.js.map",
+    "runtime-main.js": "/hegimon/static/js/runtime-main.61a34892.js",
+    "runtime-main.js.map": "/hegimon/static/js/runtime-main.61a34892.js.map",
+    "static/css/2.150d169a.chunk.css": "/hegimon/static/css/2.150d169a.chunk.css",
+    "static/js/2.f20f1395.chunk.js": "/hegimon/static/js/2.f20f1395.chunk.js",
+    "static/js/2.f20f1395.chunk.js.map": "/hegimon/static/js/2.f20f1395.chunk.js.map",
+    "index.html": "/hegimon/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/hegimon/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ea2e4214.chunk.css.map": "/hegimon/static/css/main.ea2e4214.chunk.css.map",
+    "static/js/2.f20f1395.chunk.js.LICENSE.txt": "/hegimon/static/js/2.f20f1395.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.651146fc.js",
+    "static/js/runtime-main.61a34892.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.f20f1395.chunk.js",
     "static/css/main.ea2e4214.chunk.css",
