@@ -46,15 +46,15 @@ const AboutModal = ({ isOpen, toggleModal }: IAboutModalProps) => {
         <br />
 
         <p className="text-center">
-          Powered by <a href="https://www.hegic.co" target="_BLANK">Hegic</a>, <a href="https://www.coingecko.com/en/api" target="_BLANK">CoinGecko</a>, and <a href="https://thegraph.com" target="_BLANK">Graph Protocol</a>
+          Powered by <a href="https://www.hegic.co" target="_BLANK" rel="noreferrer">Hegic</a>, <a href="https://www.coingecko.com/en/api" target="_BLANK" rel="noreferrer">CoinGecko</a>, and <a href="https://thegraph.com" target="_BLANK" rel="noreferrer">Graph Protocol</a>
         </p>
 
         <p className="text-center">
-          Made by <a href="https://twitter.com/EmersonMacro" target="_BLANK">@EmersonMacro</a>
+          Made by <a href="https://twitter.com/EmersonMacro" target="_BLANK" rel="noreferrer">@EmersonMacro</a>
         </p>
 
         <p className="text-center">
-          <a href="https://github.com/emersonmacro/hegimon" target="_BLANK">Source on Github</a>
+          <a href="https://github.com/emersonmacro/hegimon" target="_BLANK" rel="noreferrer">Source on Github</a>
         </p>
 
       </ModalBody>

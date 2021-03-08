@@ -121,7 +121,7 @@ const DetailsModal = ({ option, isOpen, toggleModal }: IDetailsModalProps) => {
         <Row>
           <Col>Account</Col>
           <Col className="text-right">
-            <a href={ accountUrl } target="_BLANK" className="link">
+            <a href={ accountUrl } target="_BLANK"  rel="noreferrer" className="link">
               <b>{ option.account }</b>
             </a>
           </Col>
@@ -130,7 +130,7 @@ const DetailsModal = ({ option, isOpen, toggleModal }: IDetailsModalProps) => {
         <Row>
           <Col>Block</Col>
           <Col className="text-right">
-            <a href={ blockUrl } target="_BLANK">
+            <a href={ blockUrl } target="_BLANK" rel="noreferrer">
               <b>{ option.block }</b>
             </a>
           </Col>
