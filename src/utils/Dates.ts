@@ -1,9 +1,6 @@
-import moment from 'moment'
-
 export const formatTimestamp = (timestamp: number): string => {
-  return moment.unix(timestamp).format('MM/DD/YYYY')
+  const dateObject = new Date(timestamp * 1000)
+  return `${ dateObject.getMonth() + 1 }/${ dateObject.getDate() }/${ dateObject.getFullYear() }`
 }
 
-export const currentTimestamp = (): number => {
-  return moment().unix()
-}
+export const currentTimestamp = (): number => Math.floor(Date.now() / 1000)
